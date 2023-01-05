@@ -7,13 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/programmersiam" target="blank"><img src="https://img.shields.io/twitter/follow/programmersiam?logo=twitter&style=for-the-badge" alt="programmersiam" /></a> </p>
 
-- 🔭 I’m currently working on **Marnstack Developer**
 
-- 🌱 I’m currently learning **React.js,Next.js,Python**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProgrammerSiam?tab=repositories](https://github.com/ProgrammerSiam?tab=repositories)
-
-- 💬 Ask me about **JavaScript,Es6,React.js**
 
 - 📫 How to reach me **mehedihasansiam.com@gmail.com**
 
